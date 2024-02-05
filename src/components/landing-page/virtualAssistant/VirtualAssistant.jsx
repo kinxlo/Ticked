@@ -7,16 +7,16 @@ import styles from "./virtualAssistant.module.scss";
 
 const assistants = [
   {
-    profilePicture: `https://res.cloudinary.com/kingsleysolomon/image/upload/v1669159250/hng/todoAppVirtualAssistant/Ellipse_162_llvoex.png`
+    profilePicture: `https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168043/ticked/Ellipse_164_npu8ja.png`
   },
   {
-    profilePicture: `https://res.cloudinary.com/kingsleysolomon/image/upload/v1669159250/hng/todoAppVirtualAssistant/Ellipse_160_emlzvr.png`
+    profilePicture: `https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168042/ticked/Ellipse_162_lsonbh.png`
   },
   {
-    profilePicture: `https://res.cloudinary.com/kingsleysolomon/image/upload/v1669159250/hng/todoAppVirtualAssistant/Ellipse_159_ua97c5.png`
+    profilePicture: `https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168041/ticked/Ellipse_161_hxpdg1.png`
   },
   {
-    profilePicture: `https://res.cloudinary.com/kingsleysolomon/image/upload/v1669159250/hng/todoAppVirtualAssistant/Ellipse_163_ogpiim.png`
+    profilePicture: `https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168042/ticked/Ellipse_159_ak0b4g.png`
   }
 ];
 

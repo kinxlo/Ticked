@@ -23,7 +23,7 @@ const UserLogin = () => {
           <Link to={"/"}>
             <Box padding={{ xs: `1.5rem 3rem`, sm: `1.5rem 7rem` }}>
               <img
-                src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1668735681/hng/todoAppVirtualAssistant/Frame_34483_msotkx.svg"
+                src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168040/ticked/Frame_34483_xv8rvv.png"
                 alt="LOGO"
               />
             </Box>

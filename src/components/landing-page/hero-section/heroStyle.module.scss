@@ -9,6 +9,7 @@
 //   border: 1px solid red;
 // }
 .hero {
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -17,14 +18,15 @@
   gap: 2rem;
   @include container;
   @media (min-width: 992px) {
-    // background: url("https://res.cloudinary.com/kingsleysolomon/image/upload/v1669367204/hng/todoAppVirtualAssistant/Ellipse_2_jtpts7.png")
-    //   center right no-repeat;
+    padding-block: 10rem;
+    background: url("https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168045/ticked/Group_1026_vl0bbr.png") center right no-repeat;
     flex-direction: row;
     margin: 0 auto;
   }
 
   .container {
     flex: 1;
+
   }
 
   .header {
@@ -33,10 +35,12 @@
     @media screen and (min-width: 992px) {
       text-align: left;
     }
+
     h3 {
       @include header-font;
       margin: 1rem 0;
     }
+
     p {
       // font-size: 18px;
       line-height: 180%;
@@ -71,6 +75,7 @@
       background-color: $activeColor;
       color: $white;
     }
+
     .button_login {
       @include button;
       border: 1px solid $activeColor;

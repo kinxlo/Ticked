@@ -37,7 +37,7 @@ const TodoListSection = () => {
           <Animate.FadeIn>
             <img
               className={styles.img}
-              src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1669159542/hng/todoAppVirtualAssistant/Frame_34492_2_cy0b6g.svg"
+              src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168025/ticked/Frame_34492_mwk0pj.png"
               alt="section-three-img"
             />
           </Animate.FadeIn>

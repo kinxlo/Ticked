@@ -89,7 +89,7 @@ function NavBar(props) {
         <Typography variant="h6" sx={{ my: 2 }}>
           <Link to="/">
             <img
-              src={`https://res.cloudinary.com/kingsleysolomon/image/upload/v1668735681/hng/todoAppVirtualAssistant/Frame_34483_msotkx.svg`}
+              src={`https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168040/ticked/Frame_34483_xv8rvv.png`}
               alt="ticked"
             />
           </Link>
@@ -155,7 +155,7 @@ function NavBar(props) {
           </IconButton>
           <Link to="/">
             <img
-              src={`https://res.cloudinary.com/kingsleysolomon/image/upload/v1668735681/hng/todoAppVirtualAssistant/Frame_34483_msotkx.svg`}
+              src={`https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168040/ticked/Frame_34483_xv8rvv.png`}
               alt="ticked"
             />
           </Link>

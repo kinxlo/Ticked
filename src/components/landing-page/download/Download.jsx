@@ -14,7 +14,7 @@ export default function Download() {
         <div className={styles.main__tick}>
           <div className={styles.main__tick__tickSub}>
             <img
-              src={`https://res.cloudinary.com/kingsleysolomon/image/upload/v1668735681/hng/todoAppVirtualAssistant/Frame_34483_msotkx.svg`}
+              src={`https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168040/ticked/Frame_34483_xv8rvv.png`}
               alt="ticked"
             />
           </div>
@@ -34,7 +34,7 @@ export default function Download() {
       <div className={styles.main__phone}>
         <Animate.FadeIn>
           <img
-            src={`https://res.cloudinary.com/kingsleysolomon/image/upload/v1668950997/hng/todoAppVirtualAssistant/Frame_34504_lgnz7c.svg`}
+            src={`https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168039/ticked/Frame_34504_f92sqh.png`}
             alt="phone"
           />
         </Animate.FadeIn>

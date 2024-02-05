@@ -27,7 +27,7 @@ const AboutHeroSection = () => {
       </Box>
       <Box flex={1} className={style.img}>
         <img
-          src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1669325707/hng/todoAppVirtualAssistant/Group_34485_djmcxu.svg"
+          src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168046/ticked/Group_34485_k9run7.png"
           alt="img"
         />
       </Box>

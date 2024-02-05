@@ -44,7 +44,7 @@ const Task = () => {
           <div className={[style.icon_wrapper, style.float_icon_1].join(" ")}>
             <img
               // className={animation.buzz_sprite}
-              src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1668662219/hng/todoAppVirtualAssistant/tick-circle_fz54vr.svg"
+              src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1707167986/ticked/tick-circle_nqfzv8.png"
               alt="check"
             />
           </div>
@@ -52,7 +52,7 @@ const Task = () => {
           <div className={[style.icon_wrapper, style.float_icon_2].join(" ")}>
             <img
               // onMouseEnter={ring}
-              src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1668662242/hng/todoAppVirtualAssistant/notification_guiglz.svg"
+              src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168004/ticked/notification_x7oroo.png"
               alt="notice"
             />
           </div>

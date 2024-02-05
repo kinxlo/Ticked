@@ -6,12 +6,12 @@ const Banner = () => {
     <article className={styles.banner}>
       <img
         className={styles.float_img_1}
-        src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1669369588/hng/todoAppVirtualAssistant/Vector_rboqtt.png"
+        src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168039/ticked/Vector_1_oprfjd.png"
         alt="floaticon"
       />
       <img
         className={styles.float_img_2}
-        src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1669290343/hng/todoAppVirtualAssistant/Vector_ao4qrj.svg"
+        src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168041/ticked/Vector_gek916.png"
         alt="floaticon"
       />
       {/* <p className={styles.text}>

@@ -22,7 +22,8 @@ const UserLogin = () => {
           <Link to={"/"}>
             <Box padding={{ xs: `1.5rem 3rem`, sm: `1.5rem 7rem` }}>
               <img
-                src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1668735681/hng/todoAppVirtualAssistant/Frame_34483_msotkx.svg"
+
+                src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168040/ticked/Frame_34483_xv8rvv.png"
                 alt="LOGO"
               />
             </Box>
@@ -34,7 +35,7 @@ const UserLogin = () => {
       <Box height={{ xs: `15%`, md: `100%` }} flex={{ md: 1 }}>
         <img
           style={imgStyle}
-          src={`https://res.cloudinary.com/kingsleysolomon/image/upload/v1670031813/hng/todoAppVirtualAssistant/Frame_26086175_ipadbi.svg`}
+          src={`https://res.cloudinary.com/kingsleysolomon/image/upload/v1707168045/ticked/Frame_26086175_ev8yrh.png`}
           alt="loginPicture"
         />
       </Box>

@@ -23,7 +23,7 @@ export const FeatureBox = ({ title, desc, bgColor, width }) => {
       className={[style.featureBox, `shadow`].join(" ")}
     >
       <img
-        src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1669800032/hng/todoAppVirtualAssistant/tick-circle_c69oqf.svg"
+        src="https://res.cloudinary.com/kingsleysolomon/image/upload/v1707167967/ticked/tick-circle_hmrgct.png"
         alt="checked-img"
       />
       <h4 className={style.whytickedbox__header}>{title}</h4>
